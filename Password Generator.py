@@ -1,5 +1,6 @@
 # Password Generator
 
+# LEVEL: EASY
 """
 OUTPUT:
   Welcome to the Password Grnerator
